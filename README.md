@@ -1,4 +1,4 @@
-# Hospital Readmissions — BI + AI Analytics Portfolio Project
+# BI + AI Analytics Portfolio Project
 
 > **Tableau meets Claude AI** — A end-to-end analytics project that combines interactive BI dashboards with AI-powered root cause analysis. The dashboard shows the **WHAT**. Claude explains the **WHY**.
 
